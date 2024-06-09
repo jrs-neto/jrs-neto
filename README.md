@@ -4,9 +4,9 @@
 
 
 
-Olá! Me chamo José e sou desenvolvedor atualmente cursando Análise e Desenvolvimento de Sistemas.
+Olá, me chamo José e estou Cursando Análise e Desenvolvimento de Sistemas pela Estácio. Apaixonado pela tecnologia desde os 15 e atuante na manutenção há 2 anos. Agora, focado em desenvolvimento Full-stack, envolvido em projetos pessoais com HTML, CSS, e JS e em busca da primeira certificação AWS e estudante a parte de JS, Java e Cloud Computer.
 
-Estou buscando minha primeira oportunidade de trabalho e me especializando para me tornar um desenvolvedor fullstack, gosto bastante da área de desenvolvimento e estou aberto a oportunidades que esse mercado tem a oferecer.
+Pronto para entrar em um novo desafio na área da tecnologia após 7 anos na enfermagem. Com muito empenho, motivação, vontade de crescer e contribuir para a comunidade, estou pronto para uma nova jornada!
 
 ### Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrd.santosneto@gmail.com)
