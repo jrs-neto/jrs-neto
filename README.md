@@ -4,9 +4,9 @@
 
 
 
-Olá, me chamo José e estou Cursando Análise e Desenvolvimento de Sistemas pela Estácio. Apaixonado pela tecnologia desde os 15 e atuante na manutenção há 2 anos. Agora, focado em desenvolvimento Full-stack, envolvido em projetos pessoais com HTML, CSS, e JS e em busca da primeira certificação AWS e estudante a parte de JS, Java e Cloud Computer.
+Cursando Análise e Desenvolvimento de Sistemas pela Estácio, sou apaixonado por tecnologia desde os 15 anos e tenho experiência em manutenção desde os 18. Atualmente, estou focado em desenvolvimento Full-stack, participando de projetos pessoais com HTML, CSS e JavaScript. Também estou em busca da minha primeira certificação AWS e estudando Java, JavaScript e Cloud Computing.
 
-Pronto para entrar em um novo desafio na área da tecnologia após 7 anos na enfermagem. Com muito empenho, motivação, vontade de crescer e contribuir para a comunidade, estou pronto para uma nova jornada!
+Depois de 7 anos de dedicação à enfermagem, estou pronto para abraçar um novo desafio na área da tecnologia. Com determinação, motivação e uma vontade incessante de aprender e contribuir, estou preparado para iniciar esta nova jornada e fazer a diferença na comunidade tecnológica.
 
 ### Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrd.santosneto@gmail.com)
