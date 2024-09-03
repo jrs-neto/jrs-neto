@@ -38,7 +38,7 @@ Depois de 7 anos de dedicação à enfermagem, estou pronto para abraçar um nov
 
 ### Projetos
 [Animais Fantásticos](https://jrs-neto.github.io/animais-fantasticos/)<br>
-[Página Inicial](https://jrs-neto.netlify.app/#intro)
+[Landing Page](https://jrs-neto.netlify.app/#intro)
 
 <hr/>
 
