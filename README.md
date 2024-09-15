@@ -38,7 +38,8 @@ Depois de 7 anos de dedicação à enfermagem, estou pronto para abraçar um nov
 
 ### Projetos
 [Animais Fantásticos](https://jrs-neto.github.io/animais-fantasticos/)<br>
-[Landing Page](https://jrs-neto.netlify.app/#intro)
+[Landing Page](https://jrs-neto.netlify.app/#intro)<br>
+[Calculadora IMC](https://projects-ruby-theta.vercel.app/)
 
 <hr/>
 
