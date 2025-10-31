@@ -37,8 +37,13 @@ Depois de 7 anos de dedicação à enfermagem, estou pronto para abraçar um nov
 
 ### Projetos
 [Animais Fantásticos](https://jrs-neto.github.io/animais-fantasticos/)<br>
-[Landing Page](https://jrs-neto.netlify.app/#intro)<br>
-[Calculadora IMC](https://projects-ruby-theta.vercel.app/)
+[Weather Forecast](https://jrs-neto.github.io/projects/weather-forecast/index.html)<br>
+[Text to Voice Converter](https://jrs-neto.github.io/projects/text-to-voice-converter/index.html)<br>
+[Portfólio Demonstração](https://jrs-neto.github.io/projects/project-portfolio/index.html)<br>
+[Relógio Digital](https://jrs-neto.github.io/projects/digital-clock/index.html)<br>
+[Calculadora IMC](https://projects-ruby-theta.vercel.app/)<br>
+[Landing Page](https://jrs-neto.netlify.app/#intro)
+
 
 <hr/>
 
