@@ -63,7 +63,7 @@ Aplicação para consulta de clima em tempo real consumindo API externa.
 ### 🐾 Animais Fantásticos
 Aplicação interativa desenvolvida com JavaScript puro, explorando manipulação de DOM, eventos e construção de funcionalidades dinâmicas do zero, sem uso de frameworks.
 
-**Stack:** JavaScript (ES6+)  
+**Stack:** JavaScript (ES6+), HTML, CSS    
 🔗 https://jrs-neto.github.io/animais-fantasticos/
 
 
