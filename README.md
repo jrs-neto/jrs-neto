@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou o José Rodrigues
 
-💻 Desenvolvedor Full Stack em formação  
+💻 Desenvolvedor Full Stack 
 ☁️ AWS Certified Cloud Practitioner  
 🎯 Focado em React, TypeScript, Node.js e AWS 
 
