@@ -52,7 +52,7 @@ Currently, I contribute as a volunteer Full Stack Developer in an international 
 
 ## 🚀 Featured Projects
 
-📝 Personal Blog | Full Stack Application
+### 📝 Personal Blog | Full Stack Application
 
 A full-stack application focused on user authentication and content management.
 
