@@ -3,9 +3,9 @@
 
 # 👋 Hi, I'm José Rodrigues
 
-💻 Full Stack Developer
-☁️ AWS Certified Cloud Practitioner
-🎓 Full Stack Web Developer - Generation Brasil
+💻 Full Stack Developer<br>
+☁️ AWS Certified Cloud Practitioner<br>
+🎓 Full Stack Web Developer - Generation Brasil<br>
 🌎 Open to Internship and Junior Opportunities
 
 ## 🚀 About Me
@@ -93,13 +93,13 @@ Tech Stack: JavaScript (ES6+), HTML, CSS
 🔗 https://jrs-neto.github.io/animais-fantasticos/
 
 ### 🏆 Certifications
-AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner<br>
 Full Stack Web Developer Bootcamp – Generation Brasil
 
 ### 📚 Currently Learning
-Advanced TypeScript
-AWS Cloud Services
-Software Architecture
+Advanced TypeScript<br>
+AWS Cloud Services<br>
+Software Architecture<br>
 Full Stack Development Best
 
 ## 📊 GitHub Stats
