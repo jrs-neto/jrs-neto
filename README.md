@@ -1,23 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1505fa&height=180&section=header&text=José+Rodrigues&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 
-# 👋 Olá, eu sou o José Rodrigues
+# 👋 Hi, I'm José Rodrigues
 
-💻 Desenvolvedor Full Stack 
-☁️ AWS Certified Cloud Practitioner  
-🎯 Focado em React, TypeScript, Node.js e AWS 
+💻 Full Stack Developer
+☁️ AWS Certified Cloud Practitioner
+🎓 Full Stack Web Developer - Generation Brasil
+🌎 Open to Internship and Junior Opportunities
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou desenvolvedor em transição de carreira com mais de **10 anos de experiência em suporte técnico**, o que me deu uma base sólida em resolução de problemas, infraestrutura e pensamento analítico.
+I am a Full Stack Developer transitioning into software development after more than 10 years of experience in technical support.
 
-Hoje, atuo no desenvolvimento de aplicações **Full Stack**, criando soluções com foco em **performance, escalabilidade e experiência do usuário**.
+My background has provided me with strong problem-solving, troubleshooting, communication, and analytical thinking skills that I now apply to software development.
 
-Atualmente também contribuo como **Desenvolvedor Full Stack voluntário em um time internacional**, onde trabalho com arquitetura serverless na AWS, automação de processos e colaboração em inglês no dia a dia.
+I build web applications using modern technologies such as React, TypeScript, Node.js, PostgreSQL, and AWS, focusing on clean code, scalability, and user experience.
+
+Currently, I contribute as a volunteer Full Stack Developer in an international team, collaborating in English while working with cloud services, serverless architectures, and software development best practices.
 
 
 
-### 🧠 Tecnologias
+### 🛠️ Tech Stack
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,26 +50,57 @@ Atualmente também contribuo como **Desenvolvedor Full Stack voluntário em um t
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <hr/>
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
-### 🔐 Vaultify (Full Stack)
-Plataforma de armazenamento de arquivos com autenticação OTP e dashboard interativo.
-**Stack:** Next.js, TypeScript, AWS  
-🔗 https://vaultify-fawn.vercel.app/
+📝 Personal Blog | Full Stack Application
 
-### 🌐 Weather Forecast
-Aplicação para consulta de clima em tempo real consumindo API externa.
+A full-stack application focused on user authentication and content management.
 
-**Stack:** JavaScript, API REST  
+User authentication and authorization
+CRUD operations for posts and categories
+REST API integration
+Global state management with Context API
+Layered architecture using components, pages, services, and models
+
+Tech Stack: React, TypeScript, JavaScript, REST API
+
+🔗 https://blogpessoal-react-red.vercel.app/
+
+### 🌤️ Weather App | API Integration
+
+Weather application that consumes real-time data from OpenWeatherMap.
+
+Real-time weather search by city
+API integration using asynchronous JavaScript
+Dynamic rendering of weather information
+Error handling and user feedback
+
+Tech Stack: JavaScript, HTML, CSS, OpenWeatherMap API
+
 🔗 https://jrs-neto.github.io/projects/weather-forecast/index.html
 
-### 🐾 Animais Fantásticos
-Aplicação interativa desenvolvida com JavaScript puro, explorando manipulação de DOM, eventos e construção de funcionalidades dinâmicas do zero, sem uso de frameworks.
+### 🦊 Fantastic Animals | Interactive JavaScript Project
 
-**Stack:** JavaScript (ES6+), HTML, CSS    
+Interactive website built with modern JavaScript and DOM manipulation.
+
+Advanced DOM manipulation
+Event-driven architecture
+Dynamic navigation and animations
+Built without frameworks using JavaScript ES6+
+
+Tech Stack: JavaScript (ES6+), HTML, CSS
+
 🔗 https://jrs-neto.github.io/animais-fantasticos/
 
+### 🏆 Certifications
+AWS Certified Cloud Practitioner
+Full Stack Web Developer Bootcamp – Generation Brasil
 
+### 📚 Currently Learning
+Advanced TypeScript
+AWS Cloud Services
+Software Architecture
+Full Stack Development Best
 
 ## 📊 GitHub Stats
 
