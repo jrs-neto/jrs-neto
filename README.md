@@ -94,7 +94,12 @@ Tech Stack: JavaScript (ES6+), HTML, CSS
 
 ### 🏆 Certifications
 AWS Certified Cloud Practitioner<br>
-Full Stack Web Developer Bootcamp – Generation Brasil
+
+
+## 🎓 Education & Programs
+- Full Stack Web Developer Bootcamp – Generation Brasil
+- AWS re/Start – Escola da Nuvem
+- AWS Solutions Architect Training – Escola da Nuvem
 
 ### 📚 Currently Learning
 Advanced TypeScript<br>
