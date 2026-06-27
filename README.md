@@ -77,7 +77,7 @@ Error handling and user feedback
 
 Tech Stack: JavaScript, HTML, CSS, OpenWeatherMap API
 
-🔗 https://jrs-neto.github.io/projects/weather-forecast/index.html
+🔗 jrs-neto.github.io/projeto_clima/
 
 ### 🦊 Fantastic Animals | Interactive JavaScript Project
 
